@@ -1,0 +1,10 @@
+I started off by creating the structs for location, item, and current state.
+Then I created functions for all items, cave locations, state of the game, and the secret room.
+Also created functions for listing items, location you are currently at in cave.
+The next functions are your movements, picking up and dropping items, searching areas, and a function that helps you out.
+Then I created the actual ways you can go, search, describe, inventory, help, quit, take, and drop.
+Lastly, I created the loop that the game will run off of and a message that welcomes you to my game.
+
+I had ChatGPT help me out with the over all outline of the program, I was kind of confused where to actual start with this game. But once I saw the outline I just kind of based it off of that and entered my text and functions.
+The way it outlines the game really helped me out because it showed me what I should be doing, detailed how everything worked, and showed me how to start off the program.
+I honestly enjoyed working along LLMs this semester it really taught me a lot about LLMs, how to use them, and helped my coding out. I wasn't the biggest fan of Racket to be honest, but I did enjoy your class and learning a new language. Next time I take a class that works along side LLMs I would like to branch out and use different ones, I kind of only used ChatGPT this semester because I am so familiar with it, but I wished I would have tried some other ones out.
